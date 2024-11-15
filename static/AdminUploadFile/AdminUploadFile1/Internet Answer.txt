@@ -1,0 +1,17 @@
+1. Global network of interconnected computers and servers. 
+ 
+2. Vint Cerf, Bob Kahn, Jon Postel, and Tim Berners-Lee. 
+ 
+3. High-speed internet connec Ɵons (above 25 Mbps).  
+ 
+4. Wireless networking technology. 
+ 
+5. HTTPS adds encryp Ɵon for secure data transmission.  
+ 
+6. Monitors/control incoming/outgoing network traﬃc. 
+ 
+7. On-demand access to compu Ɵng resources and storage.  
+ 
+8. Crawl, index, rank web pages based on algorithms. 
+ 
+9. Ensures equal treatment of online content. 

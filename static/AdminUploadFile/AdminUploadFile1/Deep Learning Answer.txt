@@ -1,0 +1,8 @@
+1. Deep Learning is a subset of Machine Learning using neural networks with mul Ɵple layers.  
+ 
+2. Machine Learning uses algorithms, while Deep Learning uses neural networks. 
+ 
+3. Convolu Ɵonal Neural Networks (CNNs),  
+ Recurrent Neural Networks (RNNs),  
+Long Short-Term Memory (LSTM) networks,  
+GeneraƟve Adversarial Networks (GANs).  

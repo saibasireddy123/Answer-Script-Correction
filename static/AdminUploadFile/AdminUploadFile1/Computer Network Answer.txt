@@ -1,0 +1,17 @@
+1. A computer network is a group of interconnected devices sharing resources and exchanging data. 
+ 
+2. Bus, Star, Ring, Mesh, and Hybrid. 
+ 
+3. LAN (local), MAN (city-wide), WAN (large-scale). 
+ 
+4. Wireless networking technology using radio waves. 
+ 
+5. Uniquely iden Ɵfy devices for communica Ɵon. 
+ 
+6. TCP (reliable connec Ɵons), UDP (fast data transfer).  
+ 
+7. Connects networks, directs traﬃc, manages transmission. 
+ 
+8. Protects against unauthorized access, malware, data breaches. 
+ 
+9. Translates domain names into IP addresses. 
