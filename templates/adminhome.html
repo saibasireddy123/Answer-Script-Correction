@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+     <title>OPTICAL CHARACTER RECOGNITION BASED ANSWER SCRIPT CORRECTION USING DEEP LEARNING AND LANGUAGE PROCESSING ALGORITHM </title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="{{ url_for('static',filename='vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
+
+
+    <!-- Additional CSS Files -->
+    <link rel="stylesheet" href="{{ url_for('static',filename='assets/css/fontawesome.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static',filename='assets/css/templatemo-574-mexant.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static',filename='assets/css/owl.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static',filename='assets/css/animate.css') }}">
+    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css">
+<!--
+
+TemplateMo 574 Mexant
+
+https://templatemo.com/tm-574-mexant
+
+-->
+  </head>
+
+<body>
+
+
+  <!-- ***** Header Area Start ***** -->
+  <header class="header-area header-sticky">
+      <div class="container">
+          <div class="row">
+              <div class="col-12">
+                  <nav class="main-nav">
+                      <!-- ***** Logo Start ***** -->
+                      <a href="index.html" class="logo">
+                          <!--<img src="{{ url_for('static',filename='assets/images/logo.png') }}" alt="">-->
+
+                      </a>
+                      <!-- ***** Logo End ***** -->
+                      <!-- ***** Menu Start ***** -->
+                      <ul class="nav">
+<li class="scroll-to-section"><a href="/adminviewstudent" style=" font-weight: bold; text-shadow: 0 0 3px lightblue;">View Student</a></li>
+                          <li class="has-sub" style=" width :180px;">
+                              <a href="javascript:void(0)" style=" font-weight :bold ; width :180px" class="active">Question Details</a>
+                              <ul class="sub-menu" style=" width :180px;">
+                                  <li><a href="/adminaddquestiondetails" style=" font-weight: bold; ">Upload Question</a></li>
+                                  <li><a href="/adminviewquestiondetails" style=" font-weight: bold; ">View Question</a></li>
+
+
+                              </ul>
+                          </li>
+
+
+
+                          <li class="scroll-to-section"><a href="/adminscoreevaluation" style="font-weight: bold; text-shadow: 0 0 3px lightblue; ">Score Evaluation</a></li>
+                           <li class="scroll-to-section"><a href="/adminviewresult" style="font-weight: bold; text-shadow: 0 0 3px lightblue; ">Result</a></li>
+                          <li class="scroll-to-section"><a href="/index">Logout</a></li>
+
+                      </ul>        
+
+                      <!-- ***** Menu End ***** -->
+                  </nav>
+              </div>
+          </div>
+      </div>
+  </header>
+  <!-- ***** Header Area End ***** -->
+
+  <!-- ***** Main Banner Area Start ***** -->
+  <div class="swiper-container" id="top" style=" width :1600px; height :400px;">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <div class="slide-inner" style="background-image:url({{ url_for('static', filename='assets/images/111.jpg') }})">
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8">
+                  <div class="header-text">
+                      <Br>    <Br>
+                     <h2 style="font-size :20px ; width :900px; text-shadow: 0 0 3px #FF0000; line-height:30px;">OPTICAL <em>CHARACTER RECOGNITION </em>  BASED ANSWER SCRIPT CORRECTION <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;USING DEEP LEARNING AND LANGUAGE PROCESSING ALGORITHM  </h2>
+                      <!--<div class="div-dec"></div>-->
+                      <p align="justify" style=" color :black;" >
+                          OCR Model Selection: Use pre-trained deep learning-based OCR models like Tesseract, Google’s Cloud Vision API, or custom deep learning-based OCR using CNNs (Convolutional Neural Networks) and RNNs (Recurrent Neural Networks).
+
+                      </p>
+
+                  </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+        </div>
+      </div>
+    </div>
+    <div class="swiper-button-next swiper-button-white"></div>
+    <div class="swiper-button-prev swiper-button-white"></div>
+  </div>
+
+  <!-- ***** Main Banner Area End ***** -->
+
+  <section class="services" id="services">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6">
+          <div class="service-item">
+            <i class="fas fa-archive"></i>
+            <h4>
+               Natural Language Processing
+            </h4>
+            <p style=" text-align :justify ;">
+               Language Model Integration: Use advanced language models like BERT, GPT, or custom-trained models to process the extracted text.
+Answer Key Comparison: Compare the extracted answers with the predefined answer key using semantic similarity techniques.
+
+
+            </p>
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="service-item">
+            <i class="fas fa-cloud"></i>
+            <h4>Deep Learning-based Answer Evaluation</h4>
+            <p style=" text-align :justify ;">
+               Use deep learning or Transformers to evaluate the coherence, structure, and relevance of the student’s answers.
+Train the model to understand the context of the question and how well the extracted text addresses the question.
+
+
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <section class="simple-cta">
+    <div class="container">
+      <div class="row">
+
+
+      </div>
+    </div>
+  </section>
+
+
+
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <!-- Bootstrap core JavaScript -->
+    <script src="{{ url_for('static',filename='vendor/jquery/jquery.min.js') }}"></script>
+    <script src="{{ url_for('static',filename='vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
+
+    <script src="{{ url_for('static',filename='assets/js/isotope.min.js') }}"></script>
+    <script src="{{ url_for('static',filename='assets/js/owl-carousel.js') }}"></script>
+
+    <script src="{{ url_for('static',filename='assets/js/tabs.js') }}"></script>
+    <script src="{{ url_for('static',filename='assets/js/swiper.js') }}"></script>
+    <script src="{{ url_for('static',filename='assets/js/custom.js') }}"></script>
+    <script>
+        var interleaveOffset = 0.5;
+
+      var swiperOptions = {
+        loop: true,
+        speed: 1000,
+        grabCursor: true,
+        watchSlidesProgress: true,
+        mousewheelControl: true,
+        keyboardControl: true,
+        navigation: {
+          nextEl: ".swiper-button-next",
+          prevEl: ".swiper-button-prev"
+        },
+        on: {
+          progress: function() {
+            var swiper = this;
+            for (var i = 0; i < swiper.slides.length; i++) {
+              var slideProgress = swiper.slides[i].progress;
+              var innerOffset = swiper.width * interleaveOffset;
+              var innerTranslate = slideProgress * innerOffset;
+              swiper.slides[i].querySelector(".slide-inner").style.transform =
+                "translate3d(" + innerTranslate + "px, 0, 0)";
+            }      
+          },
+          touchStart: function() {
+            var swiper = this;
+            for (var i = 0; i < swiper.slides.length; i++) {
+              swiper.slides[i].style.transition = "";
+            }
+          },
+          setTransition: function(speed) {
+            var swiper = this;
+            for (var i = 0; i < swiper.slides.length; i++) {
+              swiper.slides[i].style.transition = speed + "ms";
+              swiper.slides[i].querySelector(".slide-inner").style.transition =
+                speed + "ms";
+            }
+          }
+        }
+      };
+
+      var swiper = new Swiper(".swiper-container", swiperOptions);
+    </script>
+  </body>
+</html>
