@@ -1,0 +1,17 @@
+1. A computer network is a group of interconnected devices that share resources and exchange 
+data.  
+ 
+2. Common network topologies includes bus, star, ring, mesh, and hybrid.  
+ 
+3. *LAN (Local Area Network): Small localized networks.  
+    *MAN (Metropolitan Area Network): Larger networks covering cities.  
+    *WAN (Wide Area Network): Large -Scale networks Spanning regions.  
+ 
+4. WiFi is a wireless  networking technology using radio waves to connect devices.  
+ 
+5. IP addresses uniquely identif y devices on a network, enabling communication.  
+ 
+6. TCP (Transmission Control Protocol): Reliable, Error -Checked Connections.  
+    * UDP (User Datagram Protocol): Fast, Connectionless data transfer.  
+ 
+7. A router connects multiple networks, directing traffic  and managing data transmission.  

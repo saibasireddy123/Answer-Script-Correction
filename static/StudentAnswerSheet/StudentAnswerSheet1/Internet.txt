@@ -1,0 +1,26 @@
+1. The internet is a global network of interconnected computers and servers that communicate 
+though standardized protocols.  
+ 
+2. The internet's development involved many individuals and organizations, but key figures 
+include vint cerf and bob kahn  (TCP/IP), Jon Postel (DNS), and Tim Berners -Lee (WWW).  
+ 
+3. Broadband refers to high speed internet connections (typically above 25 mbps) via 
+technologies like fiber, cabre, DSL or wireless.  
+ 
+4. WiFi is a wireless networking technology allowing devices to connect to the internet without 
+physically cables.  
+ 
+5. HTTPs (Hypertext Transfer Protocol Secure) adds encryption for secure data transmission, 
+whereas HTTP does not.  
+ 
+6. A firewall is software or hardware that monitors and controls incoming/outgoing netwo rk 
+traffic for security.  
+ 
+7. Cloud computing provides on -demand access to computing resources and resources and 
+storage over the internet.  
+ 
+8. search engines crawl, index, and rank web pages based on algorithms, matching users queries 
+with results.  
+ 
+9. Net neutrality ensure internet service providers treat all online content equally, without 
+favoring or discriminating.  

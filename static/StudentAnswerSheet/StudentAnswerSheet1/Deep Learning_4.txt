@@ -1,0 +1,10 @@
+1. Deep learning is a subset of machine learning used neutral networks with multiple layers to 
+analyze complex data.  
+ 
+2. Machine learning uses algorithms, while deep learning uses neutral networks with multiple 
+layers.  
+ 
+3. * Convolutional Neutral Networks (CNNs)  
+    * Recurrent Neutral Networks (RNNs)  
+    * Long Short -Term Memory (LSTM) networks  
+    * Generative Adversarial Networks (GANs)  
